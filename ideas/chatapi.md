@@ -1,6 +1,8 @@
 
 Basically every messaging/chat service has a different api.
+
 That's good for a multitude of reasons.
+
 However, porting different projects to them can be a pain and time consuming.
 
 A unified api for them.
