@@ -24,8 +24,6 @@ onCommand "verify" do |sender, cmd, label, *args|
     let uuid of UUID
 
     key = args[0]
-
-    player = new Player from sender
     uuid = player.uuid
 
     if parsedYaml.containsKey(uuid)
