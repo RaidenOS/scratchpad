@@ -9,28 +9,32 @@ HashMap<String, String> parsedYaml = yaml.load(document)
 
 onCommand "verify" do |sender, cmd, label, *args|
   
-  if sender is a Player
-    let key of String
-    let uuid of UUID
-    
-    key = args[0]
+  let player of Player
   
-    player = new Player from sender
-    uuid = player.uuid
-    
-    if parsedYaml.containsKey(uuid)
-      if key == parsedYaml.get(uuid)
-        player.permissions["frostcraft"]["verify"] = true
-      else
-        sender.send "Wrong Key..."
-        return true
-      end
+  try
+    player = (Player) sender
+  catch (Exception e)
+    sender.msg "This command must be issued by a player"
+    return true
+  end
+
+  let key of String
+  let uuid of UUID
+
+  key = args[0]
+
+  player = new Player from sender
+  uuid = player.uuid
+
+  if parsedYaml.containsKey(uuid)
+    if key == parsedYaml.get(uuid)
+      player.permissions["frostcraft"]["verify"] = true
     else
-      # Send nothing, the user knows nothing.
+      sender.send "Wrong Key..."
       return true
     end
   else
-    sender.msg "You must be a real player to use this command!"
+    # Send nothing, the user knows nothing.
     return true
   end
 end
