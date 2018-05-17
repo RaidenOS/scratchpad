@@ -42,5 +42,7 @@ onCommand "verify" do |sender, cmd, label, *args|
   end
 end
 ```
-    
+Then any command with the permissions "verify" or something would work because the player has it.
+
+
   
