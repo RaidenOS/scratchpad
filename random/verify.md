@@ -1,4 +1,4 @@
-```
+```cr
 class Command::Verify < Executor::Command
 
 Yaml yaml = new Yaml
@@ -22,12 +22,15 @@ onCommand "verify" do |sender, cmd, label, *args|
       if key == parsedYaml.get(uuid)
         player.
       else
+        return true
       end
     else
+      return true
     end
     
   else
     sender.msg "You must be a real player to use this command!"
+    return tre
   end
 end
     
