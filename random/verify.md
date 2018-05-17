@@ -14,30 +14,33 @@ onCommand "verify" do |sender, cmd, label, *args|
   try
     player = (Player) sender
   catch (Exception e)
+    player = null
     sender.msg "This command must be issued by a player"
     return true
   end
 
-  let key of String
-  let uuid of UUID
+  if player != null
+    let key of String
+    let uuid of UUID
 
-  key = args[0]
+    key = args[0]
 
-  player = new Player from sender
-  uuid = player.uuid
+    player = new Player from sender
+    uuid = player.uuid
 
-  if parsedYaml.containsKey(uuid)
-    if key == parsedYaml.get(uuid)
-      player.permissions["frostcraft"]["verify"] = true
+    if parsedYaml.containsKey(uuid)
+      if key == parsedYaml.get(uuid)
+        player.permissions["frostcraft"]["verify"] = true
+      else
+        sender.send "Wrong Key..."
+        return true
+      end
     else
-      sender.send "Wrong Key..."
+      # Send nothing, the user knows nothing.
       return true
     end
-  else
-    # Send nothing, the user knows nothing.
-    return true
   end
 end
-    
+```
     
   
