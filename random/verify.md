@@ -20,17 +20,18 @@ onCommand "verify" do |sender, cmd, label, *args|
     
     if parsedYaml.containsKey(uuid)
       if key == parsedYaml.get(uuid)
-        player.
+        player.permissions["frostcraft"]["verify"] = true
       else
+        sender.send "Wrong Key..."
         return true
       end
     else
+      # Send nothing, the user knows nothing.
       return true
     end
-    
   else
     sender.msg "You must be a real player to use this command!"
-    return tre
+    return true
   end
 end
     
