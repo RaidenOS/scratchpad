@@ -12,6 +12,6 @@ spells_cast : UInt
 
 ### Currency
 ```cr
-#{currency}_made  : UInt
-#{currency}_spent : Uint
+currency_made  : UInt
+currency_spent : Uint
 ```
