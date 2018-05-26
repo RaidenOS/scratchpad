@@ -2,12 +2,16 @@
 
 ### General
 ```cr
-last_seen   : DateTime
+last_seen      : DateTime
 ```
 
 ### Spells
 ```cr
-spells_cast : UInt
+spells_cast    : UInt
+```
+
+```cr
+
 ```
 
 ### Currency
