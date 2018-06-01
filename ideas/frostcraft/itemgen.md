@@ -1,10 +1,10 @@
 ```yaml
-init_item: stone
-item_name: name
-namespace:default # (minecraft)
-name: default # (item_name)
-description: default
-nbt: {nbt} 
+init_item: {{item}}
+item_name: {{name}}
+namespace: {{namespace}}
+name: {{display_name}}
+lore: {{description}}
+nbt: {{nbt}} 
 ```
 
 ```yaml
