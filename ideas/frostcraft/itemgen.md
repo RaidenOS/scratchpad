@@ -19,4 +19,20 @@ nbt: {
 ```
 Now it can be used in commands such as 
 /summon frostcraft:wand
-or in crafting recipies.
+or in crafting recipies, etc..
+When giving or writing etc.., it should (by default) automatically add a tag to the item that makes it different from other items, and easy to select.
+Probably a nbt tag
+```yaml
+nbt:
+  {{plugin_name}}:
+    {{namespace}}:
+      name: {{name}}
+      id: {{id}} # [optional]
+```
+The generated wand nbt would be
+```yaml
+nbt:
+  extra_recipies:
+    frostcraft:
+      name: wand
+```
