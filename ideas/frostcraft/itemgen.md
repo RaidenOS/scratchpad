@@ -13,9 +13,12 @@ item_name: wand
 namespace: frostcraft
 name: &r&7**Wand**
 lore: &r&b**A &3Magical &bWand**
-nbt: {
-  frostcraft: { wand: true }
-} # excluding name and lore.
+nbt:
+  frostcraft:
+    wand: true
+    type: default
+    stats:
+      spells_cast: 0      
 ```
 Now it can be used in commands such as 
 /summon frostcraft:wand
