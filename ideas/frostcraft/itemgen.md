@@ -32,7 +32,7 @@ nbt:
 The generated wand nbt would be
 ```yaml
 nbt:
-  extra_recipies:
+  extra_items:
     frostcraft:
       name: wand
 ```
