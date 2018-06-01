@@ -11,8 +11,8 @@ nbt: {{nbt}}
 init_item: blaze_rod
 item_name: wand
 namespace: frostcraft
-name: &r&7**Wand**
-lore: &r&b**A &3Magical &bWand**
+name: &r&7 **Wand**
+lore: &r&b **A &3Magical &bWand**
 nbt:
   frostcraft:
     wand: true
