@@ -23,8 +23,12 @@ Toon Link
 Yoshi
   - [Yoshi Extra Slot Fix](http://gamebanana.com/gamefiles/4950)
     * fixes a bug with extra yoshi costumes and needs to be applied
+    
 Kirby
   - [Kirby Extra Slot Fix](https://gamebanana.com/threads/205702)
+  
+Jigglypuff
+  - [Extra Slot Tint Fix](https://gamebanana.com/skins/155488)
   
 
 
