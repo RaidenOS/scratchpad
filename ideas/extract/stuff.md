@@ -51,7 +51,14 @@ Samus
     
     
   
-JigglyPuff
-  - [Crowned JigglyPuff](https://gamebanana.com/skins/152744)
-    * csp may need to be cleaned up
-    * fits vanilla enough
+Jigglypuff
+  - [Crowned Jigglypuff](https://gamebanana.com/skins/152744)
+    | - csp may need to be cleaned up
+    | * fits vanilla enough
+  - [Headband Jigglypuff](https://gamebanana.com/skins/156900)
+    | * Takes inspiration from previous games
+    | - No physics or jiggly bones
+    | + high quality texture
+  - [Blue Band Jigglypuff](https://gamebanana.com/skins/160510)
+    | * Takes inspiration from previous games
+    | + High quality textures, material, and model
