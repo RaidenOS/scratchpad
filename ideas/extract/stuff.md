@@ -9,6 +9,12 @@ Models shouldn't really be included unless they are high enough quality.
 
 Small tweaks may be nessisary or even wanted to make the game fit a more unified (mod wise) feel.
 
+## Notes
+Anything from [vaanrose](https://gamebanana.com/members/1474375) should be allowed in if tweaked.
+
+The vanillask of his stuff really fits the game.
+
+
 ## Small Tweaks
 Toon Link
   - [Cel Shading](https://gamebanana.com/skins/151597)
@@ -23,6 +29,10 @@ Yoshi
 
 ## Actual Costumes
 
+Donkey Kong
+  - [Donkey Kong 8 Pack](https://gamebanana.com/skins/146237)
+    * some of the colours don't really fit the game, but overall it's very good.
+
 Megaman
   - [Protoman](https://gamebanana.com/skins/154251) (8 skins)
     * tweaking suggested
@@ -32,6 +42,8 @@ Samus
   - [Restro Suit Samus](https://gamebanana.com/skins/154673) (8 skins)
     * tweaking suggested
     * this almost fits the game, it feels off at times though
+    
+    
   
 JigglyPuff
   - [Crowned JigglyPuff](https://gamebanana.com/skins/152744)
