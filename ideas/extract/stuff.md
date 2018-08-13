@@ -11,7 +11,7 @@ Small tweaks may be nessisary or even wanted to make the game fit a more unified
 
 ## Small Tweaks
 Toon Link
-  - [Cel Shading] https://gamebanana.com/skins/151597
+  - [Cel Shading](https://gamebanana.com/skins/151597)
     * more accurate to the games while not taking too many liberties
 
 Yoshi
