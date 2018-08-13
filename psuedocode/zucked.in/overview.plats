@@ -1,0 +1,19 @@
+@DATABASE ->
+  Domain ->
+    Images <- Array(Image)
+    Subdomain ->
+      Images <- Array(Image)
+  Image ->
+    default_size
+    hash
+    name
+    
+@SERVER ->
+  ~ post '/upload' <- ~ -> (auth, image, req, res) ->
+      case
+      when auth
+      when verify image
+        @DATABASE images add info(image)
+        res response good & res response url
+      else
+        res response bad
