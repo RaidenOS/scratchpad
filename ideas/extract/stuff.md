@@ -25,9 +25,15 @@ Yoshi
 
 Megaman
   - [Protoman](https://gamebanana.com/skins/154251) (8 skins)
+    * tweaking suggested
+    * while it can use some tweaking, the style of this fits vanilla perfectly, and is polished enough to look like vanilla if you don't look too closely.
   
 Samus
   - [Restro Suit Samus](https://gamebanana.com/skins/154673) (8 skins)
+    * tweaking suggested
+    * this almost fits the game, it feels off at times though
   
 JigglyPuff
   - [Crowned JigglyPuff](https://gamebanana.com/skins/152744)
+    * csp may need to be cleaned up
+    * fits vanilla enough
