@@ -28,7 +28,7 @@ Kirby
   - [Kirby Extra Slot Fix](https://gamebanana.com/threads/205702)
   
 Jigglypuff
-  - [Extra Slot Tint Fix](https://gamebanana.com/skins/155488)
+  - [Extra Slot Tint Fix](https://gamebanana.com/skins/155488) (maybe)
   
 
 
