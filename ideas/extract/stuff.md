@@ -14,6 +14,9 @@ Anything from [vaanrose](https://gamebanana.com/members/1474375) should be allow
 
 The vanillask of his stuff really fits the game.
 
+# Menu Tweaks
+  - [Unique Nameplates](https://gamebanana.com/guis/31600)
+    * Fits the game perfectly, I'm surprised something like this wasn't already in it.
 
 ## Small Tweaks
 Toon Link
