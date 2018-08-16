@@ -26,7 +26,6 @@ The vanillask of his stuff really fits the game.
 Toon Link
   - [Cel Shading](https://gamebanana.com/skins/151597)
     * more accurate to the games while not taking too many liberties
-
 Yoshi
   - [Yoshi Extra Slot Fix](http://gamebanana.com/gamefiles/4950)
     * fixes a bug with extra yoshi costumes and needs to be applied
@@ -54,6 +53,12 @@ Samus
     * tweaking suggested
     * this almost fits the game, it feels off at times though
     
+Pikachu
+  - 8 female pikachu alts
+    * Perhabs libre?
+    * Shiny
+    * misc hats
+    
 Jigglypuff
   - [Crowned Jigglypuff](https://gamebanana.com/skins/152744)
     * - csp may need to be cleaned up
@@ -65,6 +70,8 @@ Jigglypuff
   - [Blue Band Jigglypuff](https://gamebanana.com/skins/160510)
     * * Takes inspiration from previous games
     * + High quality textures, material, and model
+  - Shiny
+    * It's somewhere out there..
     
 Lucina
   - [Alt Colours](https://gamebanana.com/concepts/561)
