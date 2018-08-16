@@ -33,6 +33,12 @@ Kirby
 Jigglypuff
   - [Extra Slot Tint Fix](https://gamebanana.com/skins/155488) (maybe)
   
+Lucina
+  - [Alt Colours](https://gamebanana.com/concepts/561)
+    * Just a concept, needs to be made by self.
+    * Each lucina skin has a backround and reason to exist, making it fit withing vanilla.
+    
+ 
 
 
 
