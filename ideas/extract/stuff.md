@@ -32,14 +32,6 @@ Kirby
   
 Jigglypuff
   - [Extra Slot Tint Fix](https://gamebanana.com/skins/155488) (maybe)
-  
-Lucina
-  - [Alt Colours](https://gamebanana.com/concepts/561)
-    * Just a concept, needs to be made by self.
-    * Each lucina skin has a backround and reason to exist, making it fit withing vanilla.
-    
- 
-
 
 
 ## Actual Costumes
@@ -58,8 +50,6 @@ Samus
     * tweaking suggested
     * this almost fits the game, it feels off at times though
     
-    
-  
 Jigglypuff
   - [Crowned Jigglypuff](https://gamebanana.com/skins/152744)
     * - csp may need to be cleaned up
@@ -71,3 +61,8 @@ Jigglypuff
   - [Blue Band Jigglypuff](https://gamebanana.com/skins/160510)
     * * Takes inspiration from previous games
     * + High quality textures, material, and model
+    
+Lucina
+  - [Alt Colours](https://gamebanana.com/concepts/561)
+    * Just a concept, needs to be made by self.
+    * Each lucina skin has a backround and reason to exist, making it fit withing vanilla.
