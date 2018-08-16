@@ -71,7 +71,7 @@ Jigglypuff
   - [Blue Band Jigglypuff](https://gamebanana.com/skins/160510)
     * * Takes inspiration from previous games
     * + High quality textures, material, and model
-  - Shiny
+  - [Shiny Jigglypuff](https://gamebanana.com/skins/145703)
     * It's somewhere out there..
     
 Lucina
