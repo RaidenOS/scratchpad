@@ -19,6 +19,8 @@ The vanillask of his stuff really fits the game.
     * Fits the game perfectly, I'm surprised something like this wasn't already in it.
   - [Unique Stageplates](https://gamebanana.com/guis/32246)
     * Doesn't fit it perfectly, but it's pretty close.
+  - [Modded Skins Warning](https://gamebanana.com/guis/31935)
+    * If you can't make it all work use this (but everything should work seamlessly (like vanilla) anyways)
 
 ## Small Tweaks
 Toon Link
