@@ -4,6 +4,7 @@ No gameplay changes.
 Should be able to load up the mod, and game feels like it got an update from the creators itself.
 
 Each character gets 8 new skins.
+If 8 skins are not possible, then atleast 4. (usually new model based, like olimar & alph)
 Each skin should fit, have a reason to be in, and not be overdone.
 Models shouldn't really be included unless they are high enough quality.
 
